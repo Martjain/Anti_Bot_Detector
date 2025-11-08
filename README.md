@@ -15,7 +15,6 @@ Anti-bot 우회 기술과 갭투자 분석 기능이 포함되어 있습니다.
 
 <div align="center">
   <img src="demo.gif" alt="네이버 부동산 스크래퍼 실행 데모" width="800">
-  <p><i>실제 스크래핑 과정</i></p>
 </div>
 
 ---
