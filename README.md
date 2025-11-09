@@ -1,9 +1,9 @@
 # Anti-Bot-Scraper 🏘️
 
-부동산 플랫폼에서 매물 정보를 자동으로 수집하는 고급 웹 스크래핑 시스템입니다.
+안티봇 시스템이 적용된 사이트에서 정보를 수집할 수 있는 고급 웹 스크래핑 시스템입니다.
 Anti-bot 우회 기술과 갭투자 분석 기능이 포함되어 있습니다.(예시: 네이버 부동산)
 
-> **English**: Advanced web scraper for Korean real estate platform (Naver Land) with anti-bot detection and gap investment analysis. Designed for Korean property market research and investment opportunities. [English documentation →](#english-documentation)
+> **English**: Advanced web scraper for anti-bot system applied site with advanced Anti-bot bypassing bot detection. Designed for Korean property market research and investment opportunities. [English documentation →](#english-documentation)
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-Latest-green.svg)](https://playwright.dev/)
