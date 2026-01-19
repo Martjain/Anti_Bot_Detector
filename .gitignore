@@ -159,28 +159,28 @@ venv.bak/
 /site
 
 # Test sites
-test_sites/
+archive/test_sites/
 
 # Archive - old files kept for reference
 archive/
 
-# Benchmark results
-benchmark_results/
+# Benchmark results (in archive)
+archive/benchmark_results/
 
 # Demo file
 demo.gif
 
 # Example script
-anti_bot_example.py
+archive/anti_bot_example.py
 
-# Old scripts
-old_scripts/
+# Old scripts (in archive)
+archive/old_scripts/
 
-# Benchmark scripts
-benchmark_scripts/
+# Benchmark scripts (in archive)
+archive/benchmark_scripts/
 
-# Reports
-reports/
+# Reports (in archive)
+archive/reports/
 
 
 # mypy
