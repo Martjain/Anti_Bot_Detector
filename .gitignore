@@ -158,6 +158,31 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# Test sites
+test_sites/
+
+# Archive - old files kept for reference
+archive/
+
+# Benchmark results
+benchmark_results/
+
+# Demo file
+demo.gif
+
+# Example script
+anti_bot_example.py
+
+# Old scripts
+old_scripts/
+
+# Benchmark scripts
+benchmark_scripts/
+
+# Reports
+reports/
+
+
 # mypy
 .mypy_cache/
 .dmypy.json

@@ -1,4 +1,0 @@
-playwright==1.40.0
-streamlit==1.29.0
-plotly==5.18.0
-pandas==2.1.4
